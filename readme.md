@@ -37,5 +37,9 @@ A simple task assigner for the members of the family, "Because every household h
 * Run command `npm install` from the terminal in the root directory of the project (make sure node is already installed in the machine).
 * Run `npm start`. (make sure the MongoDB server is up and running)
 
+## Framework, plugins and techniques used
+* Angular -v 5.2.0, AngularCli -v 1.6.5, flex-layout -v 2.0.0-beta.12, Angular Material Design -v 2.0.0-beta.12
+* The client/server end uses JSON web token (SHA256 ecryption) based authentication scheme, sent via authentication header as bearer token.
+
 ## Reference
 * Refer to 'https://github.com/Ashwanikumarkashyap/gharwale-client' for the client setup and configuration.
