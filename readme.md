@@ -1,6 +1,6 @@
 # Gharwale (Progressive Web Application - Server)
 
-A simple task assigner for the members of the family, "Because every household has it's GharkeKaam".
+A simple not so formal JIRA - A task assigner for the members of the family.
 
 ## Features
 
